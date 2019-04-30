@@ -1,0 +1,3 @@
+a) Interessante Methoden, mit denen man programmieren kann. Insbesondere, wie man Arbeitsspeicher spart, die Programmierabläufe beschleunigt.
+
+b) +- 20 Stunden
